@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je suis Toàn, un fan de tech et de développement web ! <br>Actuellement en 2è année de BUT MMI (Métiers du Multimédia et de l'Internet), mon objectif est simple ( à formuler :) ) : être développeur web Full Stack ! <br>Passé par une année de Médecine, j'avais toujours cette passion pour la tech en parallèle, je me suis alors dit : Pourquoi pas ?<br>Et c'est ainsi qu'à commencé mon aventure dans ce domaine !</p>
+<p align="left">Je suis Toàn, un fan de tech et de développement web ! <br>Actuellement en 2è année de BUT MMI (Métiers du Multimédia et de l'Internet), mon objectif est simple ( à formuler :) ) : être développeur web Full Stack ! <br>Passé par une année de Médecine, j'avais toujours cette passion pour la tech en parallèle, je me suis alors dit : Pourquoi pas ?<br>Et c'est ainsi qu'a commencé mon aventure dans ce domaine !</p>
 
 ###
 
